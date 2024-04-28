@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://notion-widget.github.io/getpublii/sitemap.xml

@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "test",
+    "description": "",
+    "home_page_url": "https://notion-widget.github.io/getpublii",
+    "feed_url": "https://notion-widget.github.io/getpublii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "teast"
+    },
+    "items": [
+        {
+            "id": "https://notion-widget.github.io/getpublii/this-is-title.html",
+            "url": "https://notion-widget.github.io/getpublii/this-is-title.html",
+            "title": "this is title",
+            "summary": "This is header",
+            "content_html": "\n    <h2 id=\"this-is-header\">\n      This is header\n    </h2>\n\n  <div class=\"post__toc\">\n    \n    <ul>\n      <li><a href=\"#this-is-header\">This is header</a></li>\n    </ul>\n  </div>\n  ",
+            "author": {
+                "name": "teast"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-28T17:35:22+06:00",
+            "date_modified": "2024-04-28T17:51:16+06:00"
+        }
+    ]
+}
